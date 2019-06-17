@@ -1,2 +1,0 @@
-# omshinde.github.io
-Homepage
