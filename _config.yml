@@ -43,3 +43,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+gems:
+  - jemoji
+  - jekyll-gist
+  - jekyll-mentions
