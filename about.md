@@ -86,7 +86,7 @@ permalink: /about/
         
 
 
-### <center><heading style ='backgeound:yellow;color:blue'>Projects</heading> </center>
+### <center><heading style ='background:yellow;color:blue'>Projects</heading> </center>
 <p>
 <ul>
 <li>
@@ -111,7 +111,7 @@ permalink: /about/
 </p>
 
 
-### <center><heading style ='backgeound:yellow;color:blue'>Academics</heading> </center>
+### <center><heading style ='background:yellow;color:blue'>Academics</heading> </center>
       
 - **M.Tech** <br/>
     (2016 - 2018) | *CPI: 8.37/10* <br/>
