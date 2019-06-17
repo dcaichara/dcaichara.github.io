@@ -16,7 +16,7 @@
 title: Dayal Chand Aichara
 email: dc.aichara@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-               This a personal website hosted on Github pages.
+               A is postgraduate from <href='http://www.iitb.ac.in/'> IIT Bombay, </a> trying to excel his skills in data science and machine learning. Also, a blockchain enthusiast, traveler, and trekker.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dcaichara.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dc_aichara
