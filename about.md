@@ -100,7 +100,7 @@ permalink: /about/
 </ul>
 <ul>
 <li>
-<a href=''>PriceIndices</a> 
+<a href='https://pypi.org/project/PriceIndices/'>PriceIndices</a> 
 
    <ul>
    <li>This python library can be used to get historical price data of cryptocurrencies from CoinMarketCap, and calculate & plot different technical price indicators.</li>
