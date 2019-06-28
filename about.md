@@ -104,10 +104,32 @@ permalink: /about/
 
    <ul>
    <li>This python library can be used to get historical price data of cryptocurrencies from CoinMarketCap, and calculate & plot different technical price indicators.</li>
-  
    </ul>
 </li>
 </ul>
+
+<ul>
+<li>
+<a href='https://pypi.org/project/pychatworkAPI/'>pychatworkAPI</a> 
+
+   <ul>
+   <li> pychatworkAPI is a python API wrapper for Chatwork to access Chatwork offline. It can be used to handle chat rooms, send and read messages, create new chat rooms, handle incoming requests, assign tasks and many more. 
+   </ul>
+</li>
+</ul>
+
+<ul>
+<li>
+<a href='https://www.github.com/dc-aichara'>Other projects</a> 
+
+   <ul>
+   <li> <a href='https://www.github.com/dc-aichara'>Github: </a> I have few Data Science and Machine Learning project on Github. </li>
+   <li> <a href='https://medium.com/@dc.aichara'>Medium: </a> I write articles on Medium, related to Data Science and Machine Learning topics.  </li>
+ 
+   </ul>
+</li>
+</ul>
+
 </p>
 
 
