@@ -114,7 +114,7 @@ permalink: /about/
 <a href='https://pypi.org/project/pychatworkAPI/'>pychatworkAPI</a> <br/>
 
    <ul>
-   <li> pychatworkAPI is a python API wrapper for Chatwork to access Chatwork offline. It can be used to handle chat rooms, send and read messages, create new chat rooms, handle incoming requests, assign tasks and many more. 
+   <li> pychatworkAPI is a python API wrapper for Chatwork to access Chatwork offline. It can be used to handle chat rooms, send and read messages, create new chat rooms, handle incoming requests, assign tasks and many more. </li>
    </ul>
 </li>
 </ul>
