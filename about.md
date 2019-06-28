@@ -98,9 +98,10 @@ permalink: /about/
 
 </li>
 </ul>
+
 <ul>
 <li>
-<a href='https://pypi.org/project/PriceIndices/'>PriceIndices</a> 
+<a href='https://pypi.org/project/PriceIndices/'>PriceIndices</a> <br/>
 
    <ul>
    <li>This python library can be used to get historical price data of cryptocurrencies from CoinMarketCap, and calculate & plot different technical price indicators.</li>
@@ -110,7 +111,7 @@ permalink: /about/
 
 <ul>
 <li>
-<a href='https://pypi.org/project/pychatworkAPI/'>pychatworkAPI</a> 
+<a href='https://pypi.org/project/pychatworkAPI/'>pychatworkAPI</a> <br/>
 
    <ul>
    <li> pychatworkAPI is a python API wrapper for Chatwork to access Chatwork offline. It can be used to handle chat rooms, send and read messages, create new chat rooms, handle incoming requests, assign tasks and many more. 
@@ -120,7 +121,7 @@ permalink: /about/
 
 <ul>
 <li>
-<a href='https://www.github.com/dc-aichara'>Other projects</a> 
+<a href='https://www.github.com/dc-aichara'>Other projects</a> <br/>
 
    <ul>
    <li> <a href='https://www.github.com/dc-aichara'>Github: </a> I have few Data Science and Machine Learning project on Github. </li>
@@ -129,11 +130,10 @@ permalink: /about/
    </ul>
 </li>
 </ul>
-
 </p>
 
 
-### <center><heading style ='background:yellow;color:blue'>Academics</heading> </center>
+###  <center><heading style ='background:yellow;color:blue'>Academics</heading> </center>
       
 - **M.Tech** <br/>
     (2016 - 2018) | *CPI: 8.37/10* <br/>
