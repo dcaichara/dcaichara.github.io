@@ -75,7 +75,7 @@ permalink: /about/
           <p>My name is Dayal Chand Aichara. I am from Jaipur, Rajasthan, India. Currently, I am working as a Data Scientist in Tokyo, Japan. I am a data science, machine learning, and AI enthusiast. I have completed Master of Technology in Geoinformatics from <a href='https://www.csre.iitb.ac.in'> Centre of Studies in Resources Engineering </a>, <a href='https://www.iitb.ac.in'> IIT Bombay</a> in 2018.
           </p>
           <p>
-	     I love to play basketball. I like to do hiking, trekking, and outdoor activities. I also write articles on <a href ='https://medium.com/@dc.aichara'>Medium</a>.
+	     I love to play basketball. I like to do hiking, trekking, and outdoor activities. I also write articles on <a href ='https://medium.com/@dcaichara'>Medium</a>.
           </p>
         </td>
         <td width="30%">
