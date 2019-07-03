@@ -125,7 +125,7 @@ permalink: /about/
 
    <ul>
    <li> <a href='https://www.github.com/dc-aichara'>Github: </a> I have few Data Science and Machine Learning project on Github. </li>
-   <li> <a href='https://medium.com/@dc.aichara'>Medium: </a> I write articles on Medium, related to Data Science and Machine Learning topics.  </li>
+   <li> <a href='https://medium.com/@dcaichara'>Medium: </a> I write articles on Medium, related to Data Science and Machine Learning topics.  </li>
    </ul>
 </li>
 </ul>
