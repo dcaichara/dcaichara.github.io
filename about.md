@@ -42,13 +42,13 @@ permalink: /about/
     papertitle {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
       font-size: 14px;
-      color: #f09228;
       font-weight: 700
     }
     
     name {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
       font-size: 32px;
+      color: #f09228;
     }
     
 
