@@ -7,7 +7,7 @@ permalink: /about/
 <style type="text/css">
     
     a {
-      color: #1772d0;
+      color: #0000FF;
       text-decoration: none;
     }
     
