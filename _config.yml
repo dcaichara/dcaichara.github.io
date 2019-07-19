@@ -31,6 +31,8 @@ theme: minima
 permalink: /:title # removes date from URL
 plugins:
   - jekyll-feed
+color:
+  blue:      '#49a7e9'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
