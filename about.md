@@ -54,16 +54,16 @@ permalink: /about/
     table{
         border-collapse: collapse;
 	border-spacing: 0;
-	border:2px solid #ffffff;
+	border:2px solid #00FF00;
     }
     th{
-	border:1px solid #ffffff;
+	border:1px solid #00FF00;
     }
     td{
-	border:1px solid #ffffff;
+	border:1px solid #00FF00;
     }
     tr{
-	border:1px solid #ffffff;
+	border:1px solid #00FF00;
     }
 </style>
 
