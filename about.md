@@ -27,7 +27,7 @@ permalink: /about/
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
       font-size: 14px;
       text-align:justify;
-      color: #f09228
+      color: #f09228;
     }
     
     strong {
@@ -43,6 +43,7 @@ permalink: /about/
     papertitle {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
       font-size: 14px;
+      color: #f09228;
       font-weight: 700
     }
     
