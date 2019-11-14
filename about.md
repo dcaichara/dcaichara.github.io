@@ -123,21 +123,21 @@ permalink: /about/
 
 <ul>
 <li>
-<a href='https://www.github.com/dc-aichara'>Other projects</a> <br/>
+<a href='https://crypto-price-indicators.herokuapp.com//'>Cryptos Technical Indicators Dashboard</a> <br/>
 
    <ul>
-   <li> <a href='https://www.github.com/dc-aichara'>Github: </a> I have few Data Science and Machine Learning project on Github. </li>
-   <li> <a href='https://medium.com/@dcaichara'>Medium: </a> I write articles on Medium, related to Data Science and Machine Learning topics.  </li>
+   <li> A cryptocurrency dashboard which shows charts of 6 technical indicators for selected coin and date range. </li>
    </ul>
 </li>
 </ul>
 
 <ul>
 <li>
-<a href='https://crypto-price-indicators.herokuapp.com//'>Cryptos Technical Indicators Dashboard</a> <br/>
+<a href='https://www.github.com/dc-aichara'>Other projects</a> <br/>
 
    <ul>
-   <li> A cryptocurrency dashboard which shows charts of 6 technical indicators for selected coin and date range. </li>
+   <li> <a href='https://www.github.com/dc-aichara'>Github: </a> I have few Data Science and Machine Learning project on Github. </li>
+   <li> <a href='https://medium.com/@dcaichara'>Medium: </a> I write articles on Medium, related to Data Science and Machine Learning topics.  </li>
    </ul>
 </li>
 </ul>
